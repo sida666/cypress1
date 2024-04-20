@@ -1,0 +1,32 @@
+{
+    "Info":{
+        "name":"Mishkaaa1",
+        "email":"atest666@test.ge",
+        "ID":"12345678910",
+        "Password":"test1234",
+        "Telephone":"66666666",
+        "Firstname":"Mishkaaa1",
+        "Lastname":"sidamonidze",
+        "Company":"testcompany",
+        "Address":"JDM",
+        "Address2":"R34",
+        "State":"rasaketebimedo",
+        "City":"Tbilisi",
+        "Zipcode":"12345",
+        "MobileNumber":"66666666",
+        "Day":"16",
+        "Month":"August",
+        "Year":"1995"
+        },
+    
+    "Info1":{
+            "IncorrectEmail":"test455@test.ge",
+            "Password":"test1234"
+        },
+    
+    "Info2":{
+         "email":"sidatest@test.test",
+         "Password":"test1234"
+
+    }   
+    }
